@@ -20,5 +20,14 @@ This project allows you to **play, pause, Next, and Previous** for your favorite
 
 ---
 
-## 📂 Project Structure
+## 🚀 How to Run the Project
 
+### 1. **Clone or Download**
+1. Download the project or clone it using:
+```bash
+git clone https://github.com/your-username/music-player.git
+
+2. Open index.html in your browser.
+
+License
+This project is licensed under the MIT License.
